@@ -1,0 +1,4 @@
+title: Spieler
+visible: true
+background_image: theplayers.jpg
+subtitle: 'Hier gibts auf die Augen'

@@ -1,0 +1,18 @@
+three:         
+	type: section1
+        style: style1
+        image: materna.png
+        title: Sponsor
+        body: 'Mit Freude dürfen wir verkünden, dass der Dortmunder IT-Dienstleister [Materna SE](https://www.materna.de) der neue Trikot-Sponsor des Ruhr Phoenix ist. Für die Saison 2019/2020 hält der Phoenix in Sachen Trikots daher eine Überraschung bereit. Wir danken der Firma Materna SE für ihre Unterstützung und freuen uns die Flügel im frischen Gewand wieder auszubreiten!'
+        button_url: 'https://www.materna.de/'
+        button_caption: 'Zu Materna SE'
+
+
+three:
+        type: section1
+        style: style1
+        image: EQC_logo.jpg
+        title: EQC2023
+        body: 'Wir nehmen dieses Jahr an der European Quidditch Championship 2023 am 13.-14. Mai in Heidelberg teil. Weitere Infos findet ihr auf der verlinkten Webseite.'
+        button_url: 'https://www.quidditcheurope.org/eqc2023-d1'
+        button_caption: 'Mehr erfahren'

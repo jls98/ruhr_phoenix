@@ -1,0 +1,3 @@
+https://github.com/giansi/grav-theme-solid-state
+
+https://github.com/getgrav/grav-theme-antimatter
